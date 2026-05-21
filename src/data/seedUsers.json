@@ -1,0 +1,34 @@
+[
+  {
+    "id": "USR-AUTH-001",
+    "name": "Gram Panchayat Admin",
+    "phone": "9876543210",
+    "password": "admin123",
+    "role": "authority",
+    "createdAt": "2026-04-20T09:00:00.000Z"
+  },
+  {
+    "id": "USR-CIT-001",
+    "name": "Ramesh Kumar",
+    "phone": "9123456780",
+    "password": "citizen123",
+    "role": "citizen",
+    "createdAt": "2026-04-20T09:10:00.000Z"
+  },
+  {
+    "id": "USR-CIT-002",
+    "name": "Sita Devi",
+    "phone": "7982456130",
+    "password": "citizen123",
+    "role": "citizen",
+    "createdAt": "2026-04-20T09:15:00.000Z"
+  },
+  {
+    "id": "USR-CIT-003",
+    "name": "Amit Singh",
+    "phone": "8630914725",
+    "password": "citizen123",
+    "role": "citizen",
+    "createdAt": "2026-04-20T09:20:00.000Z"
+  }
+]
